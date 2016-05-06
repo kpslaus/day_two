@@ -1,5 +1,1 @@
-<!DOCTYPE html>
-<head>
-	<title>Class Work Day Two</title>
-</head>
-</html>
+# day_two
